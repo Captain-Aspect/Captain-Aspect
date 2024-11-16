@@ -35,7 +35,6 @@
 ## My Stats
 I know I don't have any 😭
 <p>
-<a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Captain-Aspect&show_icons=true&theme=radical" />
 </a>
 </p>
