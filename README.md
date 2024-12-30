@@ -45,6 +45,12 @@
   ![Pycharm Studio](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=red) (Yes I'm slowly switching to Jetbrains stuff xD)
 
 
+## 💻 &nbsp;OS
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) 
+  ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) 
+
 ## Books I'm reading
 <!-- BOOKS START -->
 - [Mastering Ubuntu Server](https://www.amazon.nl/Mastering-Ubuntu-Server-distribution-comprehensive/dp/1803234245)
