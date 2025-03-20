@@ -5,7 +5,6 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Currently learning C#
-- 🎓 &nbsp; Studying for ITIL v4.
 - &nbsp; I'm a SysAdmin so my code is terible :)
 
 ### 🛠 &nbsp;My "Tech Stack"
